@@ -5,7 +5,7 @@ This project demonstrates a simple HTML page featuring a bouncing football anima
 **Features**
 The football moves alternately from left to right.
 The football also moves up and down within a defined height.
-Uses <marquee> to create a bouncing animation effect.
+Uses <marquee> to create a bouncing animation effect. 
 **How It Works**
 The outer <marquee> moves the image horizontally from right to left.
 The inner <marquee> moves the image vertically within a height of 800px.
